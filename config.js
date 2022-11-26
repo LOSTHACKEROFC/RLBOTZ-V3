@@ -47,27 +47,27 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/khoirul36_' //Link Instagrammu
-global.sgh = 'https://github.com/RullDev' //Link Githubmu
-global.sgc = 'https://chat.whatsapp.com/D2NUDa6vk4I6hrS176mErV'
+global.sig = 'https://instagram.com/rellz.fvnkyy' //Link Instagrammu
+global.sgh = 'https://github.com/rellzxdbotz' //Link Githubmu
+global.sgc = 'https://chat.whatsapp.com/HVenZa9q0tY12Mdpq2hXwn'
 global.sdc = '-' //Isi Pake Link Discordmu Kalo Gada Biarin aja
 global.snh = 'https://nhentai.net/g/HaramTod🗿' //Hmmm, Ini boleh kalian isi terserah :v
 
 /*============== PAYMENT ==============*/
-global.pdana = '087753812675' //Nomor Danamu
-global.ppulsa = '087753812675' //Nomor SimCard Yang Kamu Pake
-global.psaweria = 'https://saweria.com/RullZy' //Link Saweriamu Kalo Nggada Ketik - aja
+global.pdana = '-' //Nomor Danamu
+global.ppulsa = '085876138954' //Nomor SimCard Yang Kamu Pake
+global.psaweria = '-' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285867238794' //Nomor Bot
-global.nomorown = '6287753812675' //Nomor Owner
-global.namebot = '𝙍𝙪𝙡𝙡𝘽𝙊𝙏' //Nama Bot
-global.nameown = 'KhrlMstfa' // Nama Owner
+global.nomorbot = '085851680694' //Nomor Bot
+global.nomorown = '6285876138954' //Nomor Owner
+global.namebot = '𝙍𝙀𝙇𝙇𝙕𝙓𝘿 𝘽𝙊𝙏𝙕' //Nama Bot
+global.nameown = 'RELLZ JAWA REAL' // Nama Owner
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6287753812675', '❦ KhrlMstfa? 🎐', true] //Ganti jd nomormu sama Namamu
+  ['6285876138954', '❦ RellzTamvan? 🎐', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -99,9 +99,9 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 𝙍𝙪𝙡𝙡𝘽𝙊𝙏 汉  」' //Main Watermark
+global.wm = '                「 𝙍𝙚𝙡𝙡𝙯𝙭𝙙𝘽𝙊𝙏 汉  」' //Main Watermark
 global.wm2 = '©ᴘᴀʀᴛ ᴏꜰꜰ ᴡʜʏᴢᴢxʏ-ᴛᴇᴀᴍ'
-global.wm3 = '⫹⫺ RullBOT'
+global.wm3 = '⫹⫺ RellBOT'
 global.botdate = `⫹⫺ 𝗛𝗮𝗿𝗶: ${week} ${date}`
 global.bottime = `𝗪𝗮𝗸𝘁𝘂 : ${wktuwib}`
 global.titlebot = '🎋 ┊ 𝗥𝗣𝗚 ʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ'
@@ -371,7 +371,7 @@ global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
 global.stickpack = '.'
-global.stickauth = `☂︎\nR\nu\nl\nl\-\n𝗕\n𝗢\n𝗧\n✦\n\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
+global.stickauth = `☂︎\nR\ne\nl\nl\-\n𝗕\n𝗢\n𝗧\n✦\n\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
 global.packname = 'Cʀᴇᴀᴛᴇᴅ Bʏ'
 global.packname2 = 'ᴄʀᴇᴀᴛᴇᴅ ʙʏ 𝙍𝙪𝙡𝙡𝘽𝙊𝙏'
 
